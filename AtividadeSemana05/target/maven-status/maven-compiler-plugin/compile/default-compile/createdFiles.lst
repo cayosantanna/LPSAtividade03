@@ -1,0 +1,7 @@
+Dao/SecretariaDAO.class
+Dao/filePersistence/FilePersistence.class
+factory/Persistencia.class
+Dao/filePersistence/ISerializador.class
+model/atividadesemana05/Secretaria.class
+factory/DatabaseJPA.class
+Dao/IDAO.class
